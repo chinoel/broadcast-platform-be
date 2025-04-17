@@ -5,7 +5,7 @@ config :broadcast_platform_be, BroadcastPlatformBe.Repo,
   username: "postgres",
   password: "postgres",
   hostname: "localhost",
-  database: "broadcast_platform_be_dev",
+  database: "my_app_dev",
   stacktrace: true,
   show_sensitive_data_on_connection_error: true,
   pool_size: 10

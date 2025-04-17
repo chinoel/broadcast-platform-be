@@ -16,3 +16,9 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
   * Docs: https://hexdocs.pm/phoenix
   * Forum: https://elixirforum.com/c/phoenix-forum
   * Source: https://github.com/phoenixframework/phoenix
+
+
+1. mix deps.get
+2. mix setup
+3. mix phx.gen.channel Signaling
+4. 
